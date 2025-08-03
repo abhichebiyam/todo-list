@@ -9,7 +9,7 @@ A full-stack Todo application built with **Go**, **React**, **TypeScript**, and 
 - **Frontend**: React, TypeScript, Vite, Chakra UI, TanStack Query (React Query)
 - **Backend**: Go, Fiber, MongoDB Driver
 - **Database**: MongoDB Atlas
-- **Deployment**: Vercel (frontend), Render (backend) or platform of your choice
+- **Deployment**: Railway
 
 ---
 
