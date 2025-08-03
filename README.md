@@ -35,6 +35,6 @@ air
 ### Frontend (React)
 
 ```bash
-cd client
-air
+npm run dev
+npm run build
 ```
