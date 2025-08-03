@@ -2,8 +2,6 @@
 
 A full-stack Todo application built with **Go**, **React**, **TypeScript**, and **MongoDB**. Styled with **Chakra UI** and powered by **TanStack Query** for robust data fetching and caching.
 
-> Built by following this tutorial by [Burak Orkmez](https://www.youtube.com/watch?v=zw8z_o_kDqc)
-
 ---
 
 ## 🔧 Tech Stack
@@ -31,5 +29,12 @@ A full-stack Todo application built with **Go**, **React**, **TypeScript**, and 
 ### Backend (Go)
 
 ```bash
-cd server
-go run main.go
+cd client
+air
+```
+### Frontend (React)
+
+```bash
+cd client
+air
+```
